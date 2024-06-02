@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ownickyl.github.io/sitemap.html
+Sitemap: https://ownickyl.github.io/fa/sitemap.html
+Sitemap: https://ownickyl.github.io/fi/sitemap.html
+Sitemap: https://ownickyl.github.io/fu/sitemap.html
